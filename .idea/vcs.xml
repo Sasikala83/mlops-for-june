@@ -2,5 +2,8 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Junestreamlit/DSML_Aug_2024" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Junestreamlit/DSML_Aug_2024_new" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Junestreamlit/JuneStreamlit" vcs="Git" />
   </component>
 </project>
